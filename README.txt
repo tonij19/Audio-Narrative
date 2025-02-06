@@ -6,6 +6,8 @@ This podcast takes a look at how Duolingo has evolved from a start-up to a multi
 Credits
 “Duolingo correct sound effect,” from Jamie Day, https://youtu.be/cAeNwWHet3E?si=5tHs6yLSqrNZLROZ. 
 
+"Duolingo cuts workers as it relies more on AI," from Gerrit de Vynck/The Washington Post, https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/. 
+
 “Duolingo for Talking to Children - SNL” from SNL, https://youtu.be/qsEsgp3H7CU?si=PaIzTWOBLmbGm0yJ. 
 
 “”Wanderlust” by Scott Buckley” from BreakingCopyright – Royalty Free Music, https://youtu.be/pv1UkRXo84U?si=swELLvDn3L_yOLFk. 
