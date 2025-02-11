@@ -5,7 +5,7 @@ This podcast takes a look at how Duolingo has evolved from a start-up to a multi
  
 Credits
 
-"Curious Instrumental for Creators," 
+"Curious Instrumental for Creators," from Jarrod Reque, https://www.youtube.com/watch?v=NP7HGv2so-8. 
 
 “Duolingo correct sound effect,” from Jamie Day, https://youtu.be/cAeNwWHet3E?si=5tHs6yLSqrNZLROZ. 
 
@@ -13,7 +13,7 @@ Credits
 
 “Duolingo for Talking to Children - SNL” from SNL, https://youtu.be/qsEsgp3H7CU?si=PaIzTWOBLmbGm0yJ. 
 
-"Duolingo Sentences are Madness," from Matt Rose, 
+"Duolingo Sentences are Madness," from Matt Rose, https://www.youtube.com/watch?v=pB0T93deqXk. 
 
 “High Quality Sound Effects [School Hallway Interior]” from SOUND FOUND FX, https://youtu.be/4A-TwPg2brs?si=n-w-AeDocgQ8UUMU.
 
@@ -23,5 +23,4 @@ Credits
 
 “(No Copyright Music) Cuban Music [Latin Music] by MokkaMusic / Cuba” from Mokka - No Copyright Music, https://www.youtube.com/watch?v=W_jqISSHQUM. 
 
-”Wanderlust” by Scott Buckley” from BreakingCopyright – Royalty Free Music, https://youtu.be/pv1UkRXo84U?si=swELLvDn3L_yOLFk. 
-
+"Personalized learning with the latest AI - Duolingo's approach to AI" from Duolingo, https://www.youtube.com/watch?v=-CckdFDptt4. 
