@@ -1,8 +1,17 @@
 # Audio Narrative
  
 Summary
-This podcast takes a look at how Duolingo has evolved from a start-up to a multi-million dollar company. What began as a free language learning resource is now recognized by over 5000 universities as an official  language exam for English. Not all the company's developments have been received positively. The app is no longer completely free, with many resources locked behind a paywall. In addition, Duolingo has begun to utilize AI heavily as both a user feature and to generate their lesson plans. Many employees at Duolingo have been laid off because of this change, and the reputation of the app is beginning to change. 
- 
+This podcast takes a look at how Duolingo has evolved from a start-up to a multi-million dollar company. What began as a free language learning resource is now recognized by over 5000 universities as an official language exam for English. As a language learner who has used Duolingo casually, many of the app's changes haven’t been received positively. In example, the app is no longer completely free, with many resources locked behind a paywall.
+
+For me, the biggest offense has been the companies shift to prioritizing AI usage over user wants and needs. The company uses AI both as a paid offering for users, but also a tool to generate their official lesson plans. This article from the Washington Post has quotes from former translators/employees who believe they were replaced with AI. Many jobs and fields are threatened by AI, and Duolingo’s contribution to this threat has not gone unnoticed. 
+
+I used audio to create a soundscape but also to tell a story that very much doesn’t rely on visuals. Though Duolingo is visually iconic, what makes a great podcast is often a boring video essay. I tried having a variety of audio, from interviews to language learning audio courses from YouTube. 
+
+Many of the edits I made throughout this process were technical, including the audio used, and especially the volume of my sound-effects and placements of transitions. My story became clearer the more I worked on it, especially because I created a script beforehand. The podcast largely reflects my script besides 1-2 last minute additions. 
+
+*This study in the Foreign Language Annals journal compares Duolingo’s efficiency to college level language courses: https://onlinelibrary.wiley.com/doi/10.1111/flan.12600. 
+*The Washington Post reported on Duolingo’s layoffs including quotes from former translators/employees that believe they were replaced with AI: https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/. 
+
 Credits
 
 "Curious Instrumental for Creators," from Jarrod Reque, licensed under fair use. https://www.youtube.com/watch?v=NP7HGv2so-8. 
